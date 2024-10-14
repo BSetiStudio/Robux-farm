@@ -1,0 +1,2 @@
+ERROR! Please install python (open python.exe in folder Install_python)
+~KaFun TM
